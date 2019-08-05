@@ -4,6 +4,6 @@ import "C"
 func main() {}
 
 //export Add
-func Add(a:int, b:int) {
+func Add(a, b:int) {
 	return a+b
 }
